@@ -7,9 +7,9 @@ Model-Based Collaborative Filtering: Suggests products based on user purchase hi
 Content-Based Recommendations: Provides suggestions based on textual analysis of product descriptions, suitable for new e-commerce sites without historical data.
 
 ### Key Features
-Popularity-Based Recommendations: Identifies and recommends top-selling products to new visitors.
-Collaborative Filtering: Uses user ratings and purchase history to recommend products similar to those a user has liked in the past.
-Content-Based Recommendations: Analyzes product descriptions to suggest items based on user search queries, especially useful for sites without user data.
+1. Popularity-Based Recommendations: Identifies and recommends top-selling products to new visitors.
+2. Collaborative Filtering: Uses user ratings and purchase history to recommend products similar to those a user has liked in the past.
+3. Content-Based Recommendations: Analyzes product descriptions to suggest items based on user search queries, especially useful for sites without user data.
 
 ### Setup
 Clone the Repository: git clone <repository_url>
